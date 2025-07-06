@@ -35,7 +35,7 @@ Os dados dos usuários são armazenados em um banco de dados PostgreSQL, com as 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/GustavoCawthon8/auth-contas
+git clone https://github.com/GustavoCawthon8/account-authentication
 
 # Instale as dependências
 npm install
